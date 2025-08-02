@@ -1,6 +1,6 @@
 # Voice-Controlled Personal Assistant (Offline + Text Mode)
 
-A robust Python-based personal assistant that responds to both **voice commands** and **typed input**, supports hotword detection, developer tools, system automation, and can even control your VPN, send emails, and perform unit conversions.
+A robust Python-based personal assistant catered toward software developers that responds to both **voice commands** and **typed input**, supports hotword detection, developer tools, system automation, and can even control your VPN, send emails, and perform unit conversions.
 
 ---
 
